@@ -4,7 +4,7 @@
   <li>e por último e não menos importante <strong>npm start</strong>, para iniciar a aplicação</li>
   
 <h2>Para rodar os testes RTL siga esses passos</h2>
-  <li>em seu terminal <strong>npm teste</strong></li>
+  <li>roda em seu terminal <strong>npm teste</strong></li>
   <p>o teste está retornando um Warning, mas é um bug que deve ser desconsiderado</p>
   
 ## Demonstração
